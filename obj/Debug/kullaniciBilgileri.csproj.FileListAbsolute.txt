@@ -1,0 +1,9 @@
+C:\Users\erdem\source\repos\kullaniciBilgileri\bin\Debug\kullaniciBilgileri.exe
+C:\Users\erdem\source\repos\kullaniciBilgileri\bin\Debug\kullaniciBilgileri.pdb
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.csproj.AssemblyReference.cache
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.Form1.resources
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.Properties.Resources.resources
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.csproj.GenerateResource.cache
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.csproj.CoreCompileInputs.cache
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.exe
+C:\Users\erdem\source\repos\kullaniciBilgileri\obj\Debug\kullaniciBilgileri.pdb
