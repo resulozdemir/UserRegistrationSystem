@@ -48,24 +48,9 @@ namespace kullaniciBilgileri
 
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             cinsiyet = "Erkek";
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void sehir_SelectedIndexChanged(object sender, EventArgs e)
@@ -86,11 +71,6 @@ namespace kullaniciBilgileri
             soyisim = textBox2.Text;
         }
 
-        private void textBox3_TextChanged(object sender, EventArgs e) //TC
-        {
-
-        }
-
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
             dogumTarihi = dateTimePicker1.Value;
@@ -100,31 +80,6 @@ namespace kullaniciBilgileri
         {
             
             adres = richTextBox1.Text;
-        }
-
-        private void kaydedilenBilgilerGroupBox_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void kullanimKosullari_CheckedChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void TcKayit_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label9_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
@@ -149,16 +104,6 @@ namespace kullaniciBilgileri
             dosyaYolu = file.FileName;
             dosyaAdi = file.SafeFileName;
             pictureBox1.ImageLocation = dosyaYolu;
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void adKayit_Click(object sender, EventArgs e)
-        {
-
         }
 
         protected void kaydet_Click(object sender, EventArgs e)

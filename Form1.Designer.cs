@@ -112,7 +112,6 @@ namespace kullaniciBilgileri
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Formu Doldurun";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // kaydet
             // 
@@ -135,7 +134,6 @@ namespace kullaniciBilgileri
             this.kullanimKosullari.TabIndex = 16;
             this.kullanimKosullari.Text = "Kullanım Koşullarını Kabul Edilyorum";
             this.kullanimKosullari.UseVisualStyleBackColor = true;
-            this.kullanimKosullari.CheckedChanged += new System.EventHandler(this.kullanimKosullari_CheckedChanged);
             // 
             // pictureBox1
             // 
@@ -147,7 +145,6 @@ namespace kullaniciBilgileri
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 15;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // FOTOSEC
             // 
@@ -194,7 +191,6 @@ namespace kullaniciBilgileri
             this.label5.Size = new System.Drawing.Size(61, 13);
             this.label5.TabIndex = 11;
             this.label5.Text = "ADRES : ";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // groupBox2
             // 
@@ -344,7 +340,6 @@ namespace kullaniciBilgileri
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(86, 20);
             this.textBox3.TabIndex = 7;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
             // 
             // textBox2
@@ -410,7 +405,6 @@ namespace kullaniciBilgileri
             this.label1.Size = new System.Drawing.Size(61, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "SOYAD : ";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // ad
             // 
@@ -451,7 +445,6 @@ namespace kullaniciBilgileri
             this.kaydedilenBilgilerGroupBox.TabIndex = 1;
             this.kaydedilenBilgilerGroupBox.TabStop = false;
             this.kaydedilenBilgilerGroupBox.Text = "Kaydedilen Bilgiler";
-            this.kaydedilenBilgilerGroupBox.Enter += new System.EventHandler(this.kaydedilenBilgilerGroupBox_Enter);
             // 
             // TcKayit
             // 
@@ -460,7 +453,6 @@ namespace kullaniciBilgileri
             this.TcKayit.Size = new System.Drawing.Size(95, 15);
             this.TcKayit.TabIndex = 34;
             this.TcKayit.Text = "TC";
-            this.TcKayit.Click += new System.EventHandler(this.TcKayit_Click);
             // 
             // label13
             // 
@@ -582,7 +574,6 @@ namespace kullaniciBilgileri
             this.adKayit.Size = new System.Drawing.Size(95, 15);
             this.adKayit.TabIndex = 24;
             this.adKayit.Text = "AD";
-            this.adKayit.Click += new System.EventHandler(this.adKayit_Click);
             // 
             // label7
             // 
@@ -616,7 +607,6 @@ namespace kullaniciBilgileri
             this.label9.Size = new System.Drawing.Size(76, 13);
             this.label9.TabIndex = 21;
             this.label9.Text = "CİNSİYET : ";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // label10
             // 
@@ -650,7 +640,6 @@ namespace kullaniciBilgileri
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 18;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // Form1
             // 
